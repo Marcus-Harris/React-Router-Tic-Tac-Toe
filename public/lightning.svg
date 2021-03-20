@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 511.996 511.996" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g><script>
+        (function() {
+            // If GPC on, set DOM property to true if not already true
+            if (true) {
+                if (navigator.globalPrivacyControl) return
+                Object.defineProperty(navigator, 'globalPrivacyControl', {
+                    value: true,
+                    enumerable: true
+                })
+            } else {
+                // If GPC off, set DOM property prototype to false so it may be overwritten
+                // with a true value by user agent or other extensions
+                if (typeof navigator.globalPrivacyControl !== "undefined") return
+                Object.defineProperty(Object.getPrototypeOf(navigator), 'globalPrivacyControl', {
+                    value: false,
+                    enumerable: true
+                })
+            }
+            // Remove script tag after execution
+            document.currentScript.parentElement.removeChild(document.currentScript)
+        })()
+        </script>
+<g xmlns="http://www.w3.org/2000/svg">
+	<g>
+		<path d="M383.155,235.248c-1.425-2.961-4.412-4.847-7.697-4.847h-74.307L358.111,10.68c1.015-3.891-0.836-7.961-4.42-9.762    c-3.601-1.818-7.961-0.87-10.479,2.261l-213.33,264.529c-2.065,2.56-2.475,6.076-1.058,9.045c1.425,2.961,4.412,4.847,7.697,4.847    h74.307l-56.959,219.721c-1.015,3.891,0.836,7.961,4.42,9.762c1.229,0.614,2.534,0.913,3.831,0.913    c2.517,0,4.983-1.109,6.647-3.174l213.33-264.529C384.162,241.733,384.572,238.217,383.155,235.248z" fill="#ffff00" data-original="#000000" style="" class=""/>
+	</g>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<g>
+		<path d="M152.776,132.892c-1.408-2.987-4.412-4.89-7.714-4.89h-40.089L136.248,10.74c1.033-3.883-0.776-7.953-4.343-9.788    c-3.567-1.843-7.936-0.93-10.487,2.159L1.952,148.175c-2.099,2.551-2.534,6.076-1.126,9.062c1.408,2.987,4.412,4.89,7.714,4.89    h40.089L17.355,279.39c-1.032,3.883,0.777,7.953,4.343,9.788c1.237,0.64,2.577,0.947,3.9,0.947c2.492,0,4.924-1.084,6.588-3.106    L151.65,141.954C153.749,139.412,154.184,135.879,152.776,132.892z" fill="#ffff00" data-original="#000000" style="" class=""/>
+	</g>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<g>
+		<path d="M511.17,354.755c-1.408-2.987-4.412-4.89-7.714-4.89h-40.089l31.274-117.263c1.033-3.883-0.776-7.953-4.343-9.788    c-3.567-1.835-7.936-0.93-10.487,2.159L360.346,370.038c-2.099,2.551-2.534,6.076-1.126,9.062c1.408,2.987,4.412,4.89,7.714,4.89    h40.089l-31.274,117.263c-1.032,3.883,0.777,7.953,4.343,9.788c1.237,0.64,2.577,0.947,3.9,0.947c2.492,0,4.924-1.084,6.588-3.106    l119.465-145.064C512.143,361.275,512.578,357.742,511.17,354.755z" fill="#ffff00" data-original="#000000" style="" class=""/>
+	</g>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+</g></svg>
